@@ -6,6 +6,8 @@
 + [Cover letter](#cover-letter)
 + [Skills](#skills)
 + [Work Experience](#work-experience)
++ [Education](#education)
+
 
 ## Contact
 
@@ -32,9 +34,10 @@ After many years in the software industry I've come to terms of deciding to put 
 
 ## Work experience
 
+---
 ### Zorgdomein
 
-**Position**: Senior Backend developer  
+**Position**: Senior Backend engineer  
 
 **Period**: September 2020 - September 2021  
 
@@ -43,9 +46,10 @@ After many years in the software industry I've come to terms of deciding to put 
 **Keywords**: scala, sql, kubernetes, kafka, flyway, helm, jenkins, no-sql, redis, elk, grafana, sbt, hexagonal architecture, zero downtime, DDD
 
 
+---
 ### Unicornify
 
-**Position**: Senior Backend developer  
+**Position**: Senior Backend engineer  
 
 **Period**: March 2019 – July 2020  
 
@@ -54,7 +58,7 @@ After many years in the software industry I've come to terms of deciding to put 
 **Keywords**: Java, spring, dropwizard, k8s, docker, gitlab, ci/cd, kafka, redis, aws, scripting, scala, flyway, rds, eks, mks, jdbi, microservices.  
 
 
-
+---
 ### Fuga
 
 **Position**: Backend software engineer  
@@ -66,10 +70,10 @@ After many years in the software industry I've come to terms of deciding to put 
 **Keywords**: Java, spring, hibernate, AOP, bash, MySQL, ELK (ElasticSearch, Logstash, Kibana), docker, jenkins, ruby, git, CI/CD, iptables, mockito, rake, chef, capistrano, nagios, redis (+ sentinel), kafka, maven.  
 
 
-
+---
 ### BQ
 
-**Position**: Back-end software engineer  
+**Position**: Backend software engineer  
 
 **Period**: May 2015 – Abril 2016  
 
@@ -77,5 +81,54 @@ After many years in the software industry I've come to terms of deciding to put 
 
 **Keywords**: Spring (Jersey + Jackson + Dropwizard), Git, Scala, Java, Javascript, Chef, Docker, Vagrant, CI/CD,   Jenkins, Bash, Scrum/Kanban, Gerrit, BASS, (unit & integration ) testing, Mocha, Chai, Karma, Express.
 
+---
+### Favoroute
+
+**Position**: Frontend & Android engineer  
+
+**Period**: March 2014 - March 2015  
+
+**Summary**: As front-end developer I had to deal with AngularJs and help finish the web platform on its 1.0 version. On Android I had to start the project from scratch and made the whole engineering process until publishing the app at the Play Store (and keep it at to date).
+
+**Keywords**: js, AngularJs, nodeJs, Grunt, less, bash, python, mercurial, Android, XML, Java, patterns, clean code, UX.
+
+
+---
+### Creania Labs 
+
+**Position**: Frontend & Android engineer  
+
+**Period**: March 2013 - March 2014  
+
+**Summary**: On this job I had to develop  Webapps based on API-REST, backbone, compass, and  much more. Also SmartTv apps developed on js and Samsung SmartTv's SDK. After the front-end phase, I switched to the android division and made my firsts steps under real android development.
+
+**Keywords**: Compass, JS, jQuery, REST API, Backbone, JSON, Redmine, SCRUM, git, Samsung SmartTv, Mocha, Jenkins
+
 
 ## Education
+
+---
+### Software engineering  
+
+**Location**: Universidad Politécnica de Madrid
+
+**Period**: September 2011 – June 2016  
+
+**Thesis**: Graded 9.5 over 10. [Link](https://github.com/viperey/upMoodle)
+
+
+---
+### Computer Science  
+
+**Location**: Universidad Autónoma de Madrid
+
+**Period**: September 2008 – September 2011  
+
+**Thesis**: Graded 9.5 over 10. [Link](https://github.com/viperey/upMoodle)
+
+
+## Languages
+
++ *Spanish*: native.
++ *English*: full professional proficiency.
++ *Dutch*: elementary proficiency.
